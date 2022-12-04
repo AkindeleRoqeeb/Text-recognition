@@ -1,2 +1,2 @@
-# Text-recognition
+# Text recognition
 Pure python code.
